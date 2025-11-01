@@ -43,7 +43,7 @@ func main() {
 
 	fmt.Printf("Starting findingway...\n")
 	for {
-		totalWait := 3 * time.Minute
+		totalWait := 10 * time.Minute
 		fmt.Printf("Scraping source...\n")
 		listings, err := scraper.Scrape()
 		if err != nil {
