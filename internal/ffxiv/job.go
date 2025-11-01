@@ -108,67 +108,67 @@ func JobFromAbbreviation(abbreviation string) Job {
 func (j Job) Emoji() string {
 	switch j {
 	case GNB:
-		return "<:GBR:1277726613773094943>"
+		return "<:GNB:1434110976529268786>"
 	case PLD:
-		return "<:PLD:1277726628721463401>"
+		return "<:PLD:1434110969851805736>"
 	case GLD:
-		return "<:gld:1277675881334046761>"
+		return "<:GLA:1434111643985379480>"
 	case DRK:
-		return "<:DRK:1277726599860715663>"
+		return "<:DRK:1434110973819490336>"
 	case WAR:
-		return "<:WAR:1277726641287725088>"
+		return "<:WAR:1434110972028522567>"
 	case MRD:
-		return "<:mrd:1277675899629600768>"
+		return "<:MRD:1434111648280608910>"
 	case SCH:
-		return "<:SCH:1277726703279538227>"
+		return "<:SCH:1434110963820400650>"
 	case ACN:
-		return "<:acn:1277675927374925824>"
+		return "<:ACN:1434111174017945630>"
 	case SGE:
-		return "<:SGE:1277726715988152330>"
+		return "<:SGE:1434110965783203900>"
 	case AST:
-		return "<:AST:1277726729695137936>"
+		return "<:AST:1434110967578628157>"
 	case WHM:
-		return "<:WHM:1277726691137163315>"
+		return "<:WHM:1434110955691704340>"
 	case CNJ:
-		return "<:cnj:1277675946358345788>"
+		return "<:CNJ:1434111652600614953>"
 	case SAM:
-		return "<:SAM:1277726922419474482>"
+		return "<:SAM:1434110935336878213>"
 	case DRG:
-		return "<:DRG:1277726895324008532>"
+		return "<:DRG:1434110951111528458>"
 	case NIN:
-		return "<:NIN:1277726908234203196>"
+		return "<:NIN:1434110942437834752>"
 	case MNK:
-		return "<:MNK:1277726879331123221>"
+		return "<:MNK:1434110948653797399>"
 	case RPR:
-		return "<:RPR:1277726936457674763>"
+		return "<:RPR:1434110920312881303>"
 	case VPR:
-		return "<:VPR:1277726962076487680>"
+		return "<:VPR:1434110917548834877>"
 	case BRD:
-		return "<:BRD:1277727023715979358>"
+		return "<:BRD:1434110953204613220>"
 	case MCH:
-		return "<:MCH:1277727037540532385>"
+		return "<:MCH:1434110940206600223>"
 	case DNC:
-		return "<:DNC:1277727057131868261>"
+		return "<:DNC:1434110923097899169>"
 	case BLM:
-		return "<:BLM:1277727132159705200>"
+		return "<:BLM:1434110946342862940>"
 	case BLU:
-		return "<:BLU:1277727209003683850>"
+		return "<:BLU:1434110932497207367>"
 	case SMN:
-		return "<:SMN:1277727150598000742>"
+		return "<:SMN:1434110944358695023>"
 	case RDM:
-		return "<:RDM:1277727163516194907>"
+		return "<:RDM:1434110937723437187>"
 	case PCT:
-		return "<:PCT:1277727183497990288>"
+		return "<:PCT:1434110914755559505>"
 	case LNC:
-		return "<:lnc:1277675968701661217>"
+		return "<:LNC:1434111646002843699>"
 	case PUG:
-		return "<:pgl:1277675984862052392>"
+		return "<:PGL:1434111650574635049>"
 	case ROG:
-		return "<:rog:1277676011386962064>"
+		return "<:ROG:1434111657033990154>"
 	case THM:
-		return "<:thm:1277676028113719296>"
+		return "<:THM:1434111654328537119>"
 	case ARC:
-		return "<:arc:1277676046992408636>"
+		return "<:ARC:1434111641850613840>"
 	}
-	return "<:DOH:1278745659079524352>"
+	return "<:DOH:1434112269108641964>"
 }
